@@ -10,7 +10,7 @@ int main() {
     fprintf(file, "Hello, World!\n");
     fclose(file);
 
-    printf("Salio bien 'output.txt'.\n");
+    printf("Hello, World!\n");
 
     return 0;
 }
