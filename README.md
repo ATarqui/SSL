@@ -1,3 +1,3 @@
-SSL K2052
+Trabajos Practicos de SSL K2052
 
-Trabajo practico Nro 0: Hello world
+TP Nro 0: Hello world
